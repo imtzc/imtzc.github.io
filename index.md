@@ -1,0 +1,3 @@
+* Markdown For Typora （Markdown工具推荐）
+* 通过github pages搭建个人博客
+
